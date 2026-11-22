@@ -268,3 +268,23 @@ Google Play 那笔，我写明的是“订阅后账号被停用，无法继续�
 ---
 
 以上就是我这段时间折腾 Claude 的经验。先把网络弄稳定，再按步骤注册和订阅。教程和 skill 的后续更新都会放在 [GitHub](https://github.com/ls2046/claude-setup-guide)，遇到问题就从当前卡住的步骤继续，希望能帮你少走一些弯路。
+
+
+## 引用参考
+
+下面是我折腾和整理这篇教程时参考过的文章、帖子与操作说明，放在这里方便大家回看。
+
+### 文章与经验帖
+
+- [Claude 账号、网络、订阅与申诉长文](https://x.com/suyuan1711/status/2120856418131820670)（[文章直达](https://x.com/i/article/2120551433976373248)）：参考整体流程、网络检查和订阅异常处理。
+- [静态 IP 方案参考帖](https://x.com/dingxiaopi/status/2121779536845295779)：我了解静态代理方案时参考的帖子。
+- [Claude 开通避坑与失败经历参考帖](https://x.com/qifenglelelelel/status/2122285051110928743)：参考开通过程中的不同卡点与失败经历。
+
+### 操作说明与检测工具
+
+- 手机连接：[Apple iPhone 镜像说明](https://support.apple.com/120421)、[Android ADB 文档](https://developer.android.com/tools/adb)、[scrcpy 投屏](https://github.com/Genymobile/scrcpy)。
+- 网络检测：[Net.Coffee Claude 检测](https://ip.net.coffee/claude/)、[Claude Code 环境检测](https://ip.net.coffee/claude/claudecode.html)、[BrowserLeaks](https://browserleaks.com/)。
+- 邮箱登录信息：[Google 标准登录字段说明](https://developers.google.com/identity/openid-connect/reference)。
+- Apple 退款：[申请退款](https://support.apple.com/118223)、[查询进度与到账时间](https://support.apple.com/118224)。
+- Google Play 退款：[退款申请与状态查询说明](https://support.google.com/googleplay/answer/15574897?hl=zh-Hans)。
+- Claude 订阅问题：[各渠道退款说明](https://support.claude.com/en/articles/12386328-request-a-refund-for-a-paid-claude-plan)、[身份验证说明](https://support.claude.com/en/articles/14328960-identity-verification-on-claude)、[账号限制与申诉](https://support.claude.com/en/articles/8241253-safeguards-warnings-and-appeals)。
