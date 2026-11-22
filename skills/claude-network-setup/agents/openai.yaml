@@ -1,4 +1,0 @@
-interface:
-  display_name: "Claude 网络配置与环境检测"
-  short_description: "Claude 专属：自建 VPS、机场加静态 IP、电脑手机环境检测与访问排障"
-  default_prompt: "使用 $claude-network-setup 配置或检查 Claude 专属网络，在保留可用连接的前提下验证电脑与手机的出口、DNS、WebRTC、时区及访问稳定性。"

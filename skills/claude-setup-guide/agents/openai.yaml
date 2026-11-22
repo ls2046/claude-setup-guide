@@ -1,0 +1,4 @@
+interface:
+  display_name: "Claude 开通与使用全流程"
+  short_description: "从电脑手机网络、邮箱注册到订阅支付、KYC、退款申诉的 Claude 全流程处理"
+  default_prompt: "使用 $claude-setup-guide 从我当前卡住的步骤继续，检查并解决 Claude 网络、注册登录、订阅支付、KYC 或退款问题，直接完成已授权操作并核对结果。"

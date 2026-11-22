@@ -17,7 +17,7 @@
 
 配置文件、节点和分流规则这些细节，交给 Codex 处理。我会在电脑上的 Codex 里打开一个本地项目，把连接资料准备好，让它检查现状、备份配置、完成部署和测试。
 
-完整教程、Claude 专属 skill 和可复制的配置提示词统一从这里获取：[GitHub 教程与 skill](https://github.com/ls2046/claude-network-setup)。按自己选择的方案使用对应提示词即可。
+完整教程、Claude 专属 skill 和可复制的配置提示词统一从这里获取：[GitHub 教程与 skill](https://github.com/ls2046/claude-setup-guide)。按自己选择的方案使用对应提示词即可。
 
 ### 经济方案：机场加静态 IP（我更推荐）
 
