@@ -276,6 +276,7 @@ Google Play 那笔，我写明的是“订阅后账号被停用，无法继续�
 
 ### 文章与经验帖
 
+- [xiaoxiaodong（小小东）VPS 教程](https://vps.xiaoxiaodong.ai/)（[GitHub 项目](https://github.com/nevertoday/xiaoxiaodong-vps)）：参考自建 VPS 部署、电脑和手机导入配置，以及出口、DNS、WebRTC 的检测流程。
 - [Claude 账号、网络、订阅与申诉长文](https://x.com/suyuan1711/status/2120856418131820670)（[文章直达](https://x.com/i/article/2120551433976373248)）：参考整体流程、网络检查和订阅异常处理。
 - [静态 IP 方案参考帖](https://x.com/dingxiaopi/status/2121779536845295779)：我了解静态代理方案时参考的帖子。
 - [Claude 开通避坑与失败经历参考帖](https://x.com/qifenglelelelel/status/2122285051110928743)：参考开通过程中的不同卡点与失败经历。
