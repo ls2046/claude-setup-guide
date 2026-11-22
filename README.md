@@ -63,3 +63,11 @@ python3 skills/claude-setup-guide/scripts/probe_routes.py --help
 ## 分享问题
 
 可以提交脱敏后的报错、客户端版本和复现步骤。不要上传代理密码、机场订阅链接、SSH 私钥、Cookie、验证码、支付资料或原始私有配置。
+
+## AI 技术讨论群
+
+欢迎扫码加入微信群，交流 Claude 开通、网络配置和 AI 工具使用经验。
+
+<img src="assets/ai-tech-wechat-group.jpg" alt="AI 技术讨论群微信二维码" width="360" />
+
+二维码有效期以图片提示为准：**11 月 30 日前有效**。过期后请查看本页更新。
